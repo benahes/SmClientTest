@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "568182281803",
+    "project_id": "smclient-4fa03",
+    "storage_bucket": "smclient-4fa03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568182281803:android:d608a4fa5c22e8f3d11fce",
+        "android_client_info": {
+          "package_name": "com.rityxtech.smclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568182281803-dlm14i8j2ojb1omcbv0d9pbg7p90av56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rityxtech.smclient",
+            "certificate_hash": "c852b90730b5cd280a29df52932e62f377798fad"
+          }
+        },
+        {
+          "client_id": "568182281803-v2oj61j9i0tt401njamfu79j5n8a9djn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE6NchPyC82ycHJL2VGcO0zg14mOsAcVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568182281803-v2oj61j9i0tt401njamfu79j5n8a9djn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
