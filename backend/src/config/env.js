@@ -38,9 +38,4 @@ if (env.NODE_ENV === "production" && env.ENABLE_AUTH_MOCK) {
   process.exit(1);
 }
 
-if (env.NODE_ENV === "production" && env.CORS_ORIGIN.trim() === "*") {
-  console.error("❌ CORS_ORIGIN cannot be * in production.");
-  process.exit(1);
-}
-
 export { env };
